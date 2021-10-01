@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/voyago/converter v0.0.0-20211001073357-6c0a47b0c69c h1:H5tLoDSWfsfz2yGp5pgVJKKPSFbqBpH8NTAas61huyI=
+github.com/voyago/converter v0.0.0-20211001073357-6c0a47b0c69c/go.mod h1:ajBE4gWVrI49QV05rsCMXCvIituQLmsqI3dy+f2HKEI=
